@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Math Quiz Kids</string>
+    <string name="title_text">Math Fun Time</string>
+    <string name="score_text">Score: %1$d</string>
+    <string name="question_counter">Question %1$d of %2$d</string>
+    <string name="answer_hint">Type your answer</string>
+    <string name="result_placeholder">Let\'s solve it!</string>
+    <string name="check_answer">Check Answer</string>
+    <string name="next_question">Next Question</string>
+    <string name="summary_title">Great Job!</string>
+    <string name="final_score_text">Your score: %1$d / 100</string>
+    <string name="play_again">Play Again</string>
+    <string name="correct_message">Correct! You are a math star!</string>
+    <string name="wrong_message">Nice try! The answer was %1$d.</string>
+    <string name="enter_answer_error">Please enter an answer.</string>
+    <string name="number_only_error">Use numbers only.</string>
+    <string name="summary_amazing">Amazing work! You are ready for a gold star!</string>
+    <string name="summary_great">Great job! A little more practice and you\'ll be unstoppable!</string>
+    <string name="summary_keep_practicing">Keep practicing. Every question makes you stronger!</string>
+</resources>

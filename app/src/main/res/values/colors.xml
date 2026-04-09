@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="soft_pink">#FFD6E8</color>
+    <color name="sky_blue">#B8E7FF</color>
+    <color name="light_yellow">#FFF3B0</color>
+    <color name="mint_green">#C7F9CC</color>
+    <color name="deep_blue">#214E7A</color>
+    <color name="sun_orange">#FF9F1C</color>
+    <color name="success_green">#2EAD59</color>
+    <color name="soft_gray">#5F6C7B</color>
+    <color name="card_white">#FFFDFB</color>
+    <color name="ic_launcher_background">#7ED6FF</color>
+</resources>
+
