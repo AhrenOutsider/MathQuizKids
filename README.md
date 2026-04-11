@@ -1,4 +1,4 @@
-# Math Quiz Kids
+# Math Quiz
 
 An educational Android game for kids built with Kotlin in Android Studio.
 
